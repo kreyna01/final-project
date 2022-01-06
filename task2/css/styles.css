@@ -23,7 +23,7 @@
 }
 
 .my-nav2 {
-    display: none;
+ 
     background-color: #E6B8B8
 
 }
@@ -33,10 +33,6 @@
     margin: 0 auto;
 }
 
-#products:hover + .my-nav2 {
- 
-        display: block;
-  
-}
+
 
 
